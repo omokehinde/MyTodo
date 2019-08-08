@@ -13,7 +13,7 @@ class Todos extends Component {
     }
 }
 
-Todos.PropTypes={
+Todos.propTypes={
   todos: PropTypes.object.isRequired
 }
 
